@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yuU6rq6OgE+03AaWYvMHi6gnyVELv3J3Oo6bAG+q2wFKimOe2oumBX0J8ZNgQAeSNExR6EvAtQ8wFNqzrsnElQ==",
+  "success": true,
+  "projectFilePath": "D:\\שנה ב\\פרקטיקוד\\פרקטיקוד1\\cli\\cli\\cli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.commandline.namingconventionbinder\\2.0.0-beta4.22272.1\\system.commandline.namingconventionbinder.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
